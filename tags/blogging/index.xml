@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogging on Дмитрий Плетнев</title>
-    <link>https://alvar.ru/tags/blogging/</link>
+    <link>https://waxmatuct.github.io/alvar.ru/tags/blogging/</link>
     <description>Recent content in Blogging on Дмитрий Плетнев</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 15 Nov 2020 23:56:19 +0300</lastBuildDate><atom:link href="https://alvar.ru/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Nov 2020 23:56:19 +0300</lastBuildDate><atom:link href="https://waxmatuct.github.io/alvar.ru/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test 101</title>
-      <link>https://alvar.ru/posts/test-101/</link>
+      <link>https://waxmatuct.github.io/alvar.ru/posts/test-101/</link>
       <pubDate>Sun, 15 Nov 2020 23:56:19 +0300</pubDate>
       
-      <guid>https://alvar.ru/posts/test-101/</guid>
+      <guid>https://waxmatuct.github.io/alvar.ru/posts/test-101/</guid>
       <description>Это заголовок </description>
     </item>
     
